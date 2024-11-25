@@ -25,7 +25,7 @@
 
 <hr />
 
-- 📫 How to reach me **saya@nizardev.site**
+- 📫 How to reach me **saya@nizardev.xyz**
 
 <hr />
 
